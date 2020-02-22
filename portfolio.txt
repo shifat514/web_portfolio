@@ -1,0 +1,3 @@
+target="_blank" // notun tab e open korar jonno
+
+footer kintu tag class na 
